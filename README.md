@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there I'm Steve Kazock
 
-<!--
-**kozdailyy/kozdailyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | Full Stack Developer<br/>
+😄 Pronouns: KozDaily ⚡️🦈<br/>
+🎓 Studying [Computer Science](https://www.uni-bremen.de/) at the University Of Bremen, Germany<br/>
+💬 Passionate about technology and development, I specialize in creating modern solutions<br/>
+🌱 Currently developing my skills in DevOps and cloud technologies<br/>
+📫 How to reach me<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Email : kazockparfait02@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn : @SteveKazock<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Website:...<br/>
 
-Here are some ideas to get you started:
+<!-- Github's stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Kazock's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozdailyy&count_private=true&rank_icon=github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozdailyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
