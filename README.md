@@ -1,7 +1,7 @@
 ## 👋 Hi there I'm Steve Kazock
 
 💻 Web Developer | Full Stack Developer<br/>
-😄 Pronouns: KozDaily ⚡️🦈<br/>
+😄 Pseudo: KozDaily ⚡️🦈<br/>
 🎓 Studying [Computer Science](https://www.uni-bremen.de/) at the University Of Bremen, Germany<br/>
 💬 Passionate about technology and development, I specialize in creating modern solutions<br/>
 🌱 Currently developing my skills in DevOps and cloud technologies<br/>
